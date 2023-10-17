@@ -8,7 +8,7 @@
    - Analyzed client data using Google Colab.
    - Utilized pandas and seaborn for EDA.
    - Requested additional data.
-   - [Jupyter Notebook](https://github.com/ardizio/Cognizant-x-Forage-AI-Job-Simulation/blob/main/FRG_COGNIZANT_T1_EDA.ipynb).
+   - [Jupyter Notebook](https://github.com/ardizio/Cognizant-x-Forage-AI-Job-Simulation/blob/main/FRG-COGNIZANT-T1-EDA.ipynb).
    
 2. **Data Modeling**:
    - Tasked with predicting product stock levels using sales and sensor data.
@@ -18,12 +18,12 @@
 3. **Model Building and Interpretation**:
    - Combined, transformed, and modeled 3 datasets.
    - Created a Python workflow for EDA, model testing, and finetuning.
-   - [Jupyter Notebook](https://github.com/ardizio/Cognizant-x-Forage-AI-Job-Simulation/blob/main/FRG_COGNIZANT_T3_EDA_on_new_data_and_model_building.ipynb).
+   - [Jupyter Notebook](https://github.com/ardizio/Cognizant-x-Forage-AI-Job-Simulation/blob/main/FRG-COGNIZANT-T3-EDA-on-new-data-and-model-building.ipynb).
    
 4. **Machine Learning Production**:
    - Developed a Python module adhering to PEP 8.
    - Created functions for data loading and model evaluation.
-   - [Python Module](https://github.com/ardizio/Cognizant-x-Forage-AI-Job-Simulation/blob/main/FRG_COGNIZANT_T4_ML_in_production.py).
+   - [Python Module](https://github.com/ardizio/Cognizant-x-Forage-AI-Job-Simulation/blob/main/FRG-COGNIZANT-T4-ML-in-production.py).
 
 
 
