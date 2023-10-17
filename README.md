@@ -1,9 +1,5 @@
 # Cognizant-x-Forage-AI-Job-Simulation
 
-[Read the full article on my blog](https://www.actum.it/ArticleReaderView/2023-10-08-forage-cognizant-ai-job-simulation)
-
-
-
 - **Client**: US Grocery store chain with IoT sensors, facing perishable supply chain challenges.
 - **Challenge**: Optimize supply chain for perishable items.
 - **Request**: Use data and AI for efficient supply chain management.
@@ -29,10 +25,9 @@
    - Created functions for data loading and model evaluation.
    - [Python Module](https://github.com/ardizio/Cognizant-x-Forage-AI-Job-Simulation/blob/main/FRG_COGNIZANT_T4_ML_in_production.py).
 
-- **Reflections**: Enjoyable job simulation focusing on ML optimization, with feedback to be more concise in presentations for a broader audience.
-- **Certificate of Completion**:
-   ![Certificate](https://www.actum.it/app/lib/dataLayer/DataBin/forage-cognizant-ai-4.png)
 
 
+Read a detalied [article on my blog](https://www.actum.it/ArticleReaderView/2023-10-08-forage-cognizant-ai-job-simulation).
 
- ![My Certificate of Completion in the AI Job Simulation](https://www.actum.it/app/lib/dataLayer/DataBin/forage-cognizant-ai-4.png)
+## Certificate of Completion
+![Certificate](https://www.actum.it/app/lib/dataLayer/DataBin/forage-cognizant-ai-4.png)
