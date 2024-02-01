@@ -1,5 +1,7 @@
 # Cognizant-x-Forage-AI-Job-Simulation
 
+Read a detalied [article on my blog](https://www.actum.it/ArticleReaderView/2023-10-08-forage-cognizant-ai-job-simulation).
+
 - **Client**: US Grocery store chain with IoT sensors, facing perishable supply chain challenges.
 - **Challenge**: Optimize supply chain for perishable items.
 - **Request**: Use data and AI for efficient supply chain management.
@@ -27,7 +29,3 @@
 
 
 
-Read a detalied [article on my blog](https://www.actum.it/ArticleReaderView/2023-10-08-forage-cognizant-ai-job-simulation).
-
-## Certificate of Completion
-![Certificate](https://www.actum.it/app/lib/dataLayer/DataBin/forage-cognizant-ai-4.png)
